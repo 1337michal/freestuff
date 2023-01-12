@@ -1,0 +1,4 @@
+How to setup less annoying proxy:
+Scope>Use Advanced scope control
+Add
+.*\.web-security-academy\.net$
